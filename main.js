@@ -79,7 +79,7 @@ function btn10(){
     function btn16(){
         var synth = window.speechSynthesis;
     
-        speak_data = "Healthy Eye Tips first. Eat a balanced diet cantaining vitamin A and C and green leafy vegitables second. Do eye exercises regularly to improve blood circulation, strengthen eye muscles and to enhance vision third. Take goodnight and sound sleep to support health of eyes fourth. Take breaks while using digital devices fifth. Wash your hands and face thoroughly to avoid germs spreading into eyes.        ";
+        speak_data = "Healthy Eye Tips first. Eat a balanced diet containing vitamin A and C and green leafy vegitables second. Do eye exercises regularly to improve blood circulation, strengthen eye muscles and to enhance vision third. Take goodnight and sound sleep to support health of eyes fourth. Take breaks while using digital devices fifth. Wash your hands and face thoroughly to avoid germs spreading into your eyes.        ";
     
         var utterThis = new SpeechSynthesisUtterance(speak_data);
     
